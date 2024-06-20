@@ -58,12 +58,53 @@ This mobile application provides users with the latest news from various sources
 ## Screenshots/Videos
 Please refer to the screenshots uploaded in this repository demonstrating all functionalities.
 
-1.login screen
-2.login screen with validation
-3.register screen
-4.register screen with validation
-5.signin with google option
-6.news home page 
+
+## login screen
+
+
+
+![login](https://github.com/suresh-1111/news_app/assets/120545788/a6d7d8f5-adfd-4047-a536-c577edd3bfb6)
+
+
+## login screen with validation
+
+
+![login validation](https://github.com/suresh-1111/news_app/assets/120545788/29569b7b-67fe-47ff-b8b4-316bb27cc275)
+
+
+
+
+## register screen
+
+
+![register](https://github.com/suresh-1111/news_app/assets/120545788/c2e7807b-fb5e-4411-b15c-018a8ebab648)
+
+
+
+
+## register screen with validation
+
+
+![register_validation](https://github.com/suresh-1111/news_app/assets/120545788/9ac22868-c40d-4c4f-bb87-d0cc0e196017)
+
+
+
+## signin with google option
+
+
+
+![signin with google](https://github.com/suresh-1111/news_app/assets/120545788/41161f54-bd29-47c2-98aa-3e9e9b57a61e)
+
+
+
+
+## news home page 
+
+
+
+![news homepage](https://github.com/suresh-1111/news_app/assets/120545788/bb220c70-e605-4b82-a346-62fb54f4da73)
+
+
 
 Please refer to the video uploaded in this repository demonstrating all functionalities.
 
