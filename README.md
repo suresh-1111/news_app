@@ -105,6 +105,14 @@ Please refer to the screenshots uploaded in this repository demonstrating all fu
 ![news homepage](https://github.com/suresh-1111/news_app/assets/120545788/bb220c70-e605-4b82-a346-62fb54f4da73)
 
 
+## Login details stored in the firebase dB
+
+
+![Screenshot (3)](https://github.com/suresh-1111/news_app/assets/120545788/c0a7dccd-abe6-4e6b-a5a8-73ab7f29c49e)
+
+
+
+
 
 Please refer to the video uploaded in this repository demonstrating all functionalities.
 
