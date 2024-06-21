@@ -41,7 +41,7 @@ This mobile application provides users with the latest news from various sources
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/news-app.git
+   git clone https://github.com/suresh-1111/news-app.git
 2. Navigate to the project directory:
    cd news-app
 3. Install dependencies:
